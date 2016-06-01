@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+	<!-- <table-filter match-catalog="com" match-name="barge_assign"/> <table-filter 
+		match-catalog="com" match-name="barge_info"/> <table-filter match-catalog="com" 
+		match-name="barge_operation"/> <table-filter match-catalog="com" match-name="bl_info"/> 
+		<table-filter match-catalog="com" match-name="cargo_info"/> <table-filter 
+		match-catalog="com" match-name="configuration"/> <table-filter match-catalog="com" 
+		match-name="container_operation"/> <table-filter match-catalog="com" match-name="grab_infomation"/> 
+		<table-filter match-catalog="com" match-name="grab_tare"/> <table-filter 
+		match-catalog="com" match-name="partner_info"/> <table-filter match-catalog="com" 
+		match-name="qc_crane"/> <table-filter match-catalog="com" match-name="shift"/> 
+		<table-filter match-catalog="com" match-name="stoped_code"/> <table-filter 
+		match-catalog="com" match-name="truck"/> <table-filter match-catalog="com" 
+		match-name="truck_info"/> <table-filter match-catalog="com" match-name="truck_operation"/> 
+		<table-filter match-catalog="com" match-name="vb_info"/> <table-filter match-catalog="com" 
+		match-name="vessel_cargo"/> <table-filter match-catalog="com" match-name="vessel_hold"/> 
+		<table-filter match-catalog="com" match-name="vessel_truck_assigned"/> -->
+	<table-filter match-name="user_profile" />
+	<table-filter match-name="user" />
+</hibernate-reverse-engineering>

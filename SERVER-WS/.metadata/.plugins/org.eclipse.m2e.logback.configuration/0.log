@@ -1,0 +1,942 @@
+2016-05-27 10:14:42,888 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gss.coms.bargeoperation:BargeOperation:1.0.0 @ D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\pom.xml.
+2016-05-27 10:14:43,855 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact dbunit:dbunit:jar:2.2 has been relocated to org.dbunit:dbunit:jar:2.2
+2016-05-27 10:14:46,821 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BargeOperation/src/main/java
+2016-05-27 10:14:46,822 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BargeOperation/src/main/resources
+2016-05-27 10:14:46,824 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BargeOperation/src/test/java
+2016-05-27 10:14:46,824 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BargeOperation/src/test/resources
+2016-05-27 10:14:53,293 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact dbunit:dbunit:jar:2.2 has been relocated to org.dbunit:dbunit:jar:2.2
+2016-05-27 10:14:53,499 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2016-05-27 10:15:28,923 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact dbunit:dbunit:jar:2.2 has been relocated to org.dbunit:dbunit:jar:2.2
+2016-05-27 10:15:29,125 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:15:29,138 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 10:15:29,163 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:15:29,167 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-27 10:16:37,960 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:16:37,967 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 10:16:37,970 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:16:37,974 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:16:53,038 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:16:53,041 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 10:16:53,043 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:16:53,046 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:16:58,231 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:16:58,235 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 10:16:58,237 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:16:58,240 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:17:01,991 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:17:01,995 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 10:17:01,998 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:17:02,002 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:17:20,972 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:17:20,977 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-27 10:17:20,981 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:17:20,984 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:17:32,994 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:17:32,998 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-27 10:17:33,001 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:17:33,004 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:17:42,610 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:17:42,613 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-27 10:17:42,617 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:17:42,620 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:17:51,124 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:17:51,127 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 10:17:51,129 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:17:51,132 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:18:05,906 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:18:05,909 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 10:18:05,912 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:18:05,915 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:18:22,451 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:18:22,455 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 10:18:22,457 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:18:22,461 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:18:29,812 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:18:29,816 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 10:18:29,818 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:18:29,822 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:18:36,996 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:18:37,002 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 10:18:37,006 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:18:37,012 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:18:56,209 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:18:56,214 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 10:18:56,218 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:18:56,223 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:19:02,929 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:19:02,933 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 10:19:02,935 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:19:02,939 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:19:15,141 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BargeOperation
+2016-05-27 10:19:28,081 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:19:28,085 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 10:19:28,108 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:19:28,112 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:19:28,113 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BargeOperation
+2016-05-27 10:19:28,114 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BargeOperation
+2016-05-27 10:19:28,134 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:19:39,995 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:19:40,005 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 10:19:40,025 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:19:40,030 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:19:45,765 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BargeOperation
+2016-05-27 10:20:01,908 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:20:01,913 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 10:20:01,928 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:20:01,933 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:20:01,933 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BargeOperation
+2016-05-27 10:20:01,933 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BargeOperation
+2016-05-27 10:20:01,941 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:21:05,851 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:21:05,855 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 10:21:05,858 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:21:05,862 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:22:06,287 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:22:06,291 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 10:22:06,294 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:22:06,298 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:24:06,380 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:24:06,388 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 10:24:06,391 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:24:06,396 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 10:56:17,285 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:56:17,290 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 10:56:17,293 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 10:56:17,297 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 11:01:02,278 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @2834643ms
+2016-05-27 11:01:02,461 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.9.v20150224
+2016-05-27 11:01:02,531 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@48c7780c{/wse,null,AVAILABLE}
+2016-05-27 11:01:02,554 [main] INFO  o.e.jetty.server.ServerConnector - Started ServerConnector@74bac4cd{HTTP/1.1}{0.0.0.0:19534}
+2016-05-27 11:01:02,554 [main] INFO  org.eclipse.jetty.server.Server - Started @2834919ms
+2016-05-27 11:01:28,057 [qtp765097499-335] WARN  o.e.jetty.servlet.ServletHandler - 
+org.apache.jasper.JasperException: java.lang.ClassCastException: org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLElement cannot be cast to org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLOperationElement
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:492) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:378) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.jsp.jasper.JspServlet.service(JspServlet.java:155) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.http.registry.internal.ServletManager$ServletWrapper.service(ServletManager.java:180) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl$LegacyServlet.service(HttpServiceRuntimeImpl.java:1271) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:162) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:63) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:413) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:350) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:204) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.processAlias(ProxyServlet.java:91) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:356) ~[org.eclipse.equinox.http.jetty_3.1.0.v20150323-1312.jar:na]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:808) ~[org.eclipse.jetty.servlet_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:587) [org.eclipse.jetty.servlet_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:221) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1127) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:515) [org.eclipse.jetty.servlet_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:185) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1061) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:97) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.Server.handle(Server.java:497) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:310) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:257) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:540) [org.eclipse.jetty.io_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635) [org.eclipse.jetty.util_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555) [org.eclipse.jetty.util_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at java.lang.Thread.run(Thread.java:744) [na:1.7.0_51]
+Caused by: java.lang.ClassCastException: org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLElement cannot be cast to org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLOperationElement
+	at org.eclipse.wst.ws.internal.explorer.platform.wsdl.actions.SynchronizeFragmentViewsAction.processParsedResults(SynchronizeFragmentViewsAction.java:48) ~[na:na]
+	at org.eclipse.wst.ws.internal.explorer.platform.actions.FormAction.populatePropertyTable(FormAction.java:38) ~[na:na]
+	at org.apache.jsp.wsdl.actions.SynchronizeFragmentViewsActionJSP_jsp._jspService(org.apache.jsp.wsdl.actions.SynchronizeFragmentViewsActionJSP_jsp:77) ~[na:na]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:111) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:403) ~[na:na]
+	... 32 common frames omitted
+2016-05-27 11:01:28,067 [qtp765097499-335] WARN  o.eclipse.jetty.server.HttpChannel - /wse/wsdl/actions/SynchronizeFragmentViewsActionJSP.jsp
+org.apache.jasper.JasperException: java.lang.ClassCastException: org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLElement cannot be cast to org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLOperationElement
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:492) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:378) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.jsp.jasper.JspServlet.service(JspServlet.java:155) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.http.registry.internal.ServletManager$ServletWrapper.service(ServletManager.java:180) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl$LegacyServlet.service(HttpServiceRuntimeImpl.java:1271) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:162) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:63) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:413) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:350) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:204) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.processAlias(ProxyServlet.java:91) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:356) ~[na:na]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:808) ~[na:na]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:587) ~[na:na]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:221) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1127) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:515) ~[na:na]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:185) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1061) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:97) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.Server.handle(Server.java:497) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:310) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:257) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:540) [org.eclipse.jetty.io_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635) [org.eclipse.jetty.util_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555) [org.eclipse.jetty.util_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at java.lang.Thread.run(Thread.java:744) [na:1.7.0_51]
+Caused by: java.lang.ClassCastException: org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLElement cannot be cast to org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLOperationElement
+	at org.eclipse.wst.ws.internal.explorer.platform.wsdl.actions.SynchronizeFragmentViewsAction.processParsedResults(SynchronizeFragmentViewsAction.java:48) ~[na:na]
+	at org.eclipse.wst.ws.internal.explorer.platform.actions.FormAction.populatePropertyTable(FormAction.java:38) ~[na:na]
+	at org.apache.jsp.wsdl.actions.SynchronizeFragmentViewsActionJSP_jsp._jspService(org.apache.jsp.wsdl.actions.SynchronizeFragmentViewsActionJSP_jsp:77) ~[na:na]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:111) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:403) ~[na:na]
+	... 32 common frames omitted
+2016-05-27 11:01:28,071 [qtp765097499-335] WARN  o.eclipse.jetty.server.HttpChannel - Could not send response error 500: org.apache.jasper.JasperException: java.lang.ClassCastException: org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLElement cannot be cast to org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLOperationElement
+2016-05-27 11:01:29,871 [qtp765097499-338] WARN  o.e.jetty.servlet.ServletHandler - 
+org.apache.jasper.JasperException: java.lang.ClassCastException: org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLElement cannot be cast to org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLOperationElement
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:492) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:378) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.jsp.jasper.JspServlet.service(JspServlet.java:155) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.http.registry.internal.ServletManager$ServletWrapper.service(ServletManager.java:180) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl$LegacyServlet.service(HttpServiceRuntimeImpl.java:1271) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:162) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:63) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:413) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:350) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:204) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.processAlias(ProxyServlet.java:91) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:356) ~[org.eclipse.equinox.http.jetty_3.1.0.v20150323-1312.jar:na]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:808) ~[org.eclipse.jetty.servlet_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:587) [org.eclipse.jetty.servlet_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:221) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1127) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:515) [org.eclipse.jetty.servlet_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:185) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1061) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:97) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.Server.handle(Server.java:497) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:310) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:257) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:540) [org.eclipse.jetty.io_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635) [org.eclipse.jetty.util_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555) [org.eclipse.jetty.util_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at java.lang.Thread.run(Thread.java:744) [na:1.7.0_51]
+Caused by: java.lang.ClassCastException: org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLElement cannot be cast to org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLOperationElement
+	at org.eclipse.wst.ws.internal.explorer.platform.wsdl.actions.SynchronizeFragmentViewsAction.processParsedResults(SynchronizeFragmentViewsAction.java:48) ~[na:na]
+	at org.eclipse.wst.ws.internal.explorer.platform.actions.FormAction.populatePropertyTable(FormAction.java:38) ~[na:na]
+	at org.apache.jsp.wsdl.actions.SynchronizeFragmentViewsActionJSP_jsp._jspService(org.apache.jsp.wsdl.actions.SynchronizeFragmentViewsActionJSP_jsp:77) ~[na:na]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:111) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:403) ~[na:na]
+	... 32 common frames omitted
+2016-05-27 11:01:29,880 [qtp765097499-338] WARN  o.eclipse.jetty.server.HttpChannel - /wse/wsdl/actions/SynchronizeFragmentViewsActionJSP.jsp
+org.apache.jasper.JasperException: java.lang.ClassCastException: org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLElement cannot be cast to org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLOperationElement
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:492) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:378) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.jsp.jasper.JspServlet.service(JspServlet.java:155) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.http.registry.internal.ServletManager$ServletWrapper.service(ServletManager.java:180) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl$LegacyServlet.service(HttpServiceRuntimeImpl.java:1271) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:162) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:63) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:413) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:350) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:204) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.processAlias(ProxyServlet.java:91) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:356) ~[na:na]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:808) ~[na:na]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:587) ~[na:na]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:221) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1127) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:515) ~[na:na]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:185) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1061) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:97) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.Server.handle(Server.java:497) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:310) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:257) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:540) [org.eclipse.jetty.io_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635) [org.eclipse.jetty.util_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555) [org.eclipse.jetty.util_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at java.lang.Thread.run(Thread.java:744) [na:1.7.0_51]
+Caused by: java.lang.ClassCastException: org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLElement cannot be cast to org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLOperationElement
+	at org.eclipse.wst.ws.internal.explorer.platform.wsdl.actions.SynchronizeFragmentViewsAction.processParsedResults(SynchronizeFragmentViewsAction.java:48) ~[na:na]
+	at org.eclipse.wst.ws.internal.explorer.platform.actions.FormAction.populatePropertyTable(FormAction.java:38) ~[na:na]
+	at org.apache.jsp.wsdl.actions.SynchronizeFragmentViewsActionJSP_jsp._jspService(org.apache.jsp.wsdl.actions.SynchronizeFragmentViewsActionJSP_jsp:77) ~[na:na]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:111) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:403) ~[na:na]
+	... 32 common frames omitted
+2016-05-27 11:01:29,883 [qtp765097499-338] WARN  o.eclipse.jetty.server.HttpChannel - Could not send response error 500: org.apache.jasper.JasperException: java.lang.ClassCastException: org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLElement cannot be cast to org.eclipse.wst.ws.internal.explorer.platform.wsdl.datamodel.WSDLOperationElement
+2016-05-27 11:01:35,606 [qtp765097499-338] WARN  o.e.jetty.servlet.ServletHandler - 
+org.apache.jasper.JasperException: java.lang.ClassCastException: org.eclipse.wst.ws.internal.explorer.platform.wsdl.perspective.WSDLServiceDetailsTool cannot be cast to org.eclipse.wst.ws.internal.explorer.platform.wsdl.perspective.InvokeWSDLOperationTool
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:492) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:378) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.jsp.jasper.JspServlet.service(JspServlet.java:155) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.http.registry.internal.ServletManager$ServletWrapper.service(ServletManager.java:180) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl$LegacyServlet.service(HttpServiceRuntimeImpl.java:1271) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:162) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:63) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:413) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:350) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:204) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.processAlias(ProxyServlet.java:91) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:356) ~[org.eclipse.equinox.http.jetty_3.1.0.v20150323-1312.jar:na]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:808) ~[org.eclipse.jetty.servlet_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:587) [org.eclipse.jetty.servlet_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:221) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1127) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:515) [org.eclipse.jetty.servlet_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:185) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1061) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:97) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.Server.handle(Server.java:497) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:310) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:257) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:540) [org.eclipse.jetty.io_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635) [org.eclipse.jetty.util_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555) [org.eclipse.jetty.util_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at java.lang.Thread.run(Thread.java:744) [na:1.7.0_51]
+Caused by: java.lang.ClassCastException: org.eclipse.wst.ws.internal.explorer.platform.wsdl.perspective.WSDLServiceDetailsTool cannot be cast to org.eclipse.wst.ws.internal.explorer.platform.wsdl.perspective.InvokeWSDLOperationTool
+	at org.apache.jsp.wsdl.forms.InvokeWSDLOperationForm_jsp._jspService(org.apache.jsp.wsdl.forms.InvokeWSDLOperationForm_jsp:99) ~[na:na]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:111) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:403) ~[na:na]
+	... 32 common frames omitted
+2016-05-27 11:02:45,157 [qtp765097499-342] WARN  o.e.jetty.servlet.ServletHandler - 
+org.apache.jasper.JasperException: java.lang.ClassCastException: org.eclipse.wst.ws.internal.explorer.platform.wsdl.perspective.OpenWSDLTool cannot be cast to org.eclipse.wst.ws.internal.explorer.platform.wsdl.perspective.WSDLDetailsTool
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:492) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:378) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.jsp.jasper.JspServlet.service(JspServlet.java:155) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.http.registry.internal.ServletManager$ServletWrapper.service(ServletManager.java:180) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl$LegacyServlet.service(HttpServiceRuntimeImpl.java:1271) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:162) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:63) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:413) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:350) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:204) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.processAlias(ProxyServlet.java:91) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:356) ~[org.eclipse.equinox.http.jetty_3.1.0.v20150323-1312.jar:na]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:808) ~[org.eclipse.jetty.servlet_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:587) [org.eclipse.jetty.servlet_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:221) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1127) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:515) [org.eclipse.jetty.servlet_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:185) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1061) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:97) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.Server.handle(Server.java:497) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:310) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:257) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:540) [org.eclipse.jetty.io_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635) [org.eclipse.jetty.util_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555) [org.eclipse.jetty.util_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at java.lang.Thread.run(Thread.java:744) [na:1.7.0_51]
+Caused by: java.lang.ClassCastException: org.eclipse.wst.ws.internal.explorer.platform.wsdl.perspective.OpenWSDLTool cannot be cast to org.eclipse.wst.ws.internal.explorer.platform.wsdl.perspective.WSDLDetailsTool
+	at org.apache.jsp.wsdl.actions.SwitchWSDLDetailsViewsActionJSP_jsp._jspService(org.apache.jsp.wsdl.actions.SwitchWSDLDetailsViewsActionJSP_jsp:79) ~[na:na]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:111) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:403) ~[na:na]
+	... 32 common frames omitted
+2016-05-27 11:02:45,166 [qtp765097499-342] WARN  o.eclipse.jetty.server.HttpChannel - /wse/wsdl/actions/SwitchWSDLDetailsViewsActionJSP.jsp
+org.apache.jasper.JasperException: java.lang.ClassCastException: org.eclipse.wst.ws.internal.explorer.platform.wsdl.perspective.OpenWSDLTool cannot be cast to org.eclipse.wst.ws.internal.explorer.platform.wsdl.perspective.WSDLDetailsTool
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:492) ~[na:na]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:378) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.jsp.jasper.JspServlet.service(JspServlet.java:155) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.http.registry.internal.ServletManager$ServletWrapper.service(ServletManager.java:180) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl$LegacyServlet.service(HttpServiceRuntimeImpl.java:1271) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:162) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:63) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:413) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:350) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:204) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.processAlias(ProxyServlet.java:91) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:356) ~[na:na]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:808) ~[na:na]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:587) ~[na:na]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:221) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1127) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:515) ~[na:na]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:185) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1061) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:97) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.Server.handle(Server.java:497) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:310) ~[org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:257) [org.eclipse.jetty.server_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:540) [org.eclipse.jetty.io_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635) [org.eclipse.jetty.util_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555) [org.eclipse.jetty.util_9.2.9.v20150224.jar:9.2.9.v20150224]
+	at java.lang.Thread.run(Thread.java:744) [na:1.7.0_51]
+Caused by: java.lang.ClassCastException: org.eclipse.wst.ws.internal.explorer.platform.wsdl.perspective.OpenWSDLTool cannot be cast to org.eclipse.wst.ws.internal.explorer.platform.wsdl.perspective.WSDLDetailsTool
+	at org.apache.jsp.wsdl.actions.SwitchWSDLDetailsViewsActionJSP_jsp._jspService(org.apache.jsp.wsdl.actions.SwitchWSDLDetailsViewsActionJSP_jsp:79) ~[na:na]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:111) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet_3.1.0.v201410161800.jar:3.1.0]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:403) ~[na:na]
+	... 32 common frames omitted
+2016-05-27 11:02:45,171 [qtp765097499-342] WARN  o.eclipse.jetty.server.HttpChannel - Could not send response error 500: org.apache.jasper.JasperException: java.lang.ClassCastException: org.eclipse.wst.ws.internal.explorer.platform.wsdl.perspective.OpenWSDLTool cannot be cast to org.eclipse.wst.ws.internal.explorer.platform.wsdl.perspective.WSDLDetailsTool
+2016-05-27 13:19:16,798 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:19:16,809 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 13:19:16,813 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:19:16,817 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 13:38:52,614 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:38:52,620 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 13:38:52,625 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:38:52,629 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 13:39:06,084 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:39:06,089 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 13:39:06,092 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:39:06,095 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 13:39:11,305 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:39:11,310 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 13:39:11,314 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:39:11,318 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 13:55:02,783 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:55:02,788 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 13:55:02,791 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:55:02,794 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 13:55:12,535 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:55:12,541 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 13:55:12,545 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:55:12,548 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 13:55:55,837 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:55:55,842 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 13:55:55,845 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:55:55,848 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 13:56:02,874 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:56:02,878 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 13:56:02,882 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:56:02,885 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 13:56:05,876 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:56:05,881 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 13:56:05,885 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:56:05,890 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 13:56:10,228 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:56:10,232 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 13:56:10,234 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:56:10,237 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 13:56:13,461 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:56:13,466 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 13:56:13,470 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:56:13,473 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 13:56:35,922 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:56:35,926 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 13:56:35,929 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:56:35,932 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 13:56:44,039 [Worker-113] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BargeOperation
+2016-05-27 13:57:06,784 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:57:06,788 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 13:57:06,806 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:57:06,809 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 13:57:06,810 [Worker-119] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BargeOperation
+2016-05-27 13:57:06,810 [Worker-119] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BargeOperation
+2016-05-27 13:57:07,376 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:58:17,000 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:58:17,009 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-27 13:58:17,012 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:58:17,015 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 13:58:24,408 [Worker-109] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BargeOperation
+2016-05-27 13:58:41,526 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:58:41,534 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 13:58:41,556 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 13:58:41,560 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 13:58:41,561 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BargeOperation
+2016-05-27 13:58:41,561 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BargeOperation
+2016-05-27 13:58:41,570 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:00:43,048 [Worker-109] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BargeOperation
+2016-05-27 14:00:56,505 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:00:56,509 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 14:00:56,525 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:00:56,529 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:00:56,530 [Worker-118] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BargeOperation
+2016-05-27 14:00:56,530 [Worker-118] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BargeOperation
+2016-05-27 14:00:56,536 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:06:16,309 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:06:16,313 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 14:06:16,316 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:06:16,319 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:06:19,528 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:06:19,532 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 14:06:19,536 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:06:19,539 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:06:35,875 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:06:35,880 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 14:06:35,884 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:06:35,887 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:07:09,268 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:07:09,272 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 14:07:09,275 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:07:09,279 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:07:18,614 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:07:18,618 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 14:07:18,621 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:07:18,624 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:07:22,754 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:07:22,759 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 14:07:22,762 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:07:22,765 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:08:29,853 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:08:29,858 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 14:08:29,860 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:08:29,863 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:08:54,015 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:08:54,018 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 14:08:54,021 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:08:54,024 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:09:20,488 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:09:20,493 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 14:09:20,495 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:09:20,499 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:09:43,920 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:09:43,924 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 14:09:43,927 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:09:43,931 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:09:54,197 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:09:54,201 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 14:09:54,204 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:09:54,207 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:09:57,113 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:09:57,117 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 14:09:57,120 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:09:57,123 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:10:04,278 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:10:04,282 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 14:10:04,284 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:10:04,287 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:10:08,317 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:10:08,321 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 14:10:08,323 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:10:08,326 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:10:25,684 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:10:25,688 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 14:10:25,690 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:10:25,693 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:10:34,643 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:10:34,647 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 14:10:34,649 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:10:34,652 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:10:47,819 [Worker-120] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BargeOperation
+2016-05-27 14:11:01,743 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:11:01,749 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 14:11:01,768 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:11:01,772 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 14:11:01,773 [Worker-122] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BargeOperation
+2016-05-27 14:11:01,773 [Worker-122] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BargeOperation
+2016-05-27 14:11:01,781 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:20:18,917 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:20:18,927 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 14:20:18,929 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 14:20:18,932 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 15:33:52,301 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 15:33:52,307 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 15:33:52,310 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 15:33:52,314 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:08:57,399 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:08:57,404 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:08:57,406 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:08:57,410 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:12:29,800 [Worker-171] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:12:29,805 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:12:29,807 [Worker-171] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:12:29,811 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:12:31,369 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:12:31,373 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:12:31,377 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:12:31,381 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:12:33,690 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:12:33,694 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:12:33,697 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:12:33,700 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:13:05,214 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:13:05,218 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:13:05,220 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:13:05,223 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:13:21,899 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:13:21,903 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:13:21,906 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:13:21,909 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:15:04,129 [Worker-170] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:15:04,132 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:15:04,135 [Worker-170] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:15:04,138 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:19:19,015 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:19:19,019 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:19:19,022 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:19:19,025 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:19:23,445 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:19:23,449 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:19:23,452 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:19:23,455 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:19:25,657 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:19:25,661 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:19:25,664 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:19:25,668 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:19:29,772 [Worker-174] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BargeOperation
+2016-05-27 16:19:50,251 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:19:50,256 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:19:50,273 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:19:50,277 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:19:50,278 [Worker-174] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BargeOperation
+2016-05-27 16:19:50,278 [Worker-174] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BargeOperation
+2016-05-27 16:19:50,296 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:24:54,052 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/2.3.0.RELEASE/spring-ws-core-2.3.0.RELEASE-sources.jar
+2016-05-27 16:24:55,668 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/2.3.0.RELEASE/spring-ws-core-2.3.0.RELEASE-sources.jar
+2016-05-27 16:24:55,838 [Worker-164] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.ws:spring-ws-core:2.3.0.RELEASE
+2016-05-27 16:24:56,566 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:24:56,604 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 16:24:56,614 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:24:56,634 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:28:53,838 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:28:53,843 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:28:53,846 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:28:53,849 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:31:49,370 [Worker-181] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BargeOperation
+2016-05-27 16:32:04,128 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:32:04,134 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:32:04,151 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:32:04,155 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:32:04,155 [Worker-181] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BargeOperation
+2016-05-27 16:32:04,156 [Worker-181] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BargeOperation
+2016-05-27 16:32:04,161 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:39:44,441 [Worker-179] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:39:44,446 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:39:44,449 [Worker-179] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:39:44,452 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:40:15,084 [Worker-179] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:40:15,092 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:40:15,096 [Worker-179] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:40:15,100 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:41:36,846 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:41:36,851 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:41:36,855 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:41:36,859 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:41:57,793 [Worker-185] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BargeOperation
+2016-05-27 16:42:14,122 [Worker-183] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:42:14,127 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:42:14,151 [Worker-183] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:42:14,155 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:42:14,155 [Worker-183] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BargeOperation
+2016-05-27 16:42:14,156 [Worker-183] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BargeOperation
+2016-05-27 16:42:14,163 [Worker-183] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:55:33,652 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:55:33,657 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:55:33,659 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:55:33,662 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:55:41,760 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:55:41,765 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:55:41,768 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:55:41,772 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:56:01,584 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:56:01,588 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:56:01,592 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:56:01,595 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:57:18,374 [Worker-196] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BargeOperation
+2016-05-27 16:57:42,833 [Worker-184] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:57:42,838 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 16:57:42,855 [Worker-184] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 16:57:42,859 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 16:57:42,860 [Worker-184] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BargeOperation
+2016-05-27 16:57:42,860 [Worker-184] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BargeOperation
+2016-05-27 16:57:42,868 [Worker-184] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 17:00:17,287 [Worker-200] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BargeOperation
+2016-05-27 17:00:33,861 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 17:00:33,867 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 17:00:33,884 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 17:00:33,888 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 17:00:33,889 [Worker-199] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BargeOperation
+2016-05-27 17:00:33,889 [Worker-199] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BargeOperation
+2016-05-27 17:00:33,895 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 17:02:31,711 [Framework stop] INFO  o.e.jetty.server.ServerConnector - Stopped ServerConnector@74bac4cd{HTTP/1.1}{0.0.0.0:0}
+2016-05-27 17:02:31,853 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@48c7780c{/wse,null,UNAVAILABLE}
+2016-05-27 17:03:26,736 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact dbunit:dbunit:jar:2.2 has been relocated to org.dbunit:dbunit:jar:2.2
+2016-05-27 17:03:28,069 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 17:03:28,078 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 17:03:28,088 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 17:03:28,091 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-27 22:23:37,992 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact dbunit:dbunit:jar:2.2 has been relocated to org.dbunit:dbunit:jar:2.2
+2016-05-27 22:23:39,199 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 22:23:39,211 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-27 22:23:39,226 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 22:23:39,230 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MY PROJECT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 09:46:05,315 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gss.coms.bargeoperation:BargeOperation:1.0.0 @ D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\pom.xml.
+2016-05-31 09:46:08,015 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/2.3.0.RELEASE/spring-ws-core-2.3.0.RELEASE.pom
+2016-05-31 09:46:08,381 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/2.3.0.RELEASE/spring-ws-core-2.3.0.RELEASE.pom
+2016-05-31 09:46:08,651 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/ws/spring-xml/2.3.0.RELEASE/spring-xml-2.3.0.RELEASE.pom
+2016-05-31 09:46:08,903 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/ws/spring-xml/2.3.0.RELEASE/spring-xml-2.3.0.RELEASE.pom
+2016-05-31 09:46:10,573 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.0.9.RELEASE/spring-beans-4.0.9.RELEASE.pom
+2016-05-31 09:46:10,808 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.0.9.RELEASE/spring-beans-4.0.9.RELEASE.pom
+2016-05-31 09:46:11,045 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.0.9.RELEASE/spring-core-4.0.9.RELEASE.pom
+2016-05-31 09:46:11,268 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.0.9.RELEASE/spring-core-4.0.9.RELEASE.pom
+2016-05-31 09:46:11,509 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.0.9.RELEASE/spring-context-4.0.9.RELEASE.pom
+2016-05-31 09:46:11,758 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.0.9.RELEASE/spring-context-4.0.9.RELEASE.pom
+2016-05-31 09:46:12,002 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.0.9.RELEASE/spring-aop-4.0.9.RELEASE.pom
+2016-05-31 09:46:12,679 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.0.9.RELEASE/spring-aop-4.0.9.RELEASE.pom
+2016-05-31 09:46:12,977 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.0.9.RELEASE/spring-expression-4.0.9.RELEASE.pom
+2016-05-31 09:46:13,270 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.0.9.RELEASE/spring-expression-4.0.9.RELEASE.pom
+2016-05-31 09:46:13,627 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/4.0.9.RELEASE/spring-oxm-4.0.9.RELEASE.pom
+2016-05-31 09:46:13,912 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/4.0.9.RELEASE/spring-oxm-4.0.9.RELEASE.pom
+2016-05-31 09:46:14,236 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.0.9.RELEASE/spring-web-4.0.9.RELEASE.pom
+2016-05-31 09:46:14,489 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.0.9.RELEASE/spring-web-4.0.9.RELEASE.pom
+2016-05-31 09:46:14,728 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.0.9.RELEASE/spring-webmvc-4.0.9.RELEASE.pom
+2016-05-31 09:46:14,961 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.0.9.RELEASE/spring-webmvc-4.0.9.RELEASE.pom
+2016-05-31 09:46:17,894 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact dbunit:dbunit:jar:2.2 has been relocated to org.dbunit:dbunit:jar:2.2
+2016-05-31 09:46:18,443 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/2.3.0.RELEASE/spring-ws-core-2.3.0.RELEASE.jar
+2016-05-31 09:46:20,397 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/2.3.0.RELEASE/spring-ws-core-2.3.0.RELEASE.jar
+2016-05-31 09:46:20,632 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/ws/spring-xml/2.3.0.RELEASE/spring-xml-2.3.0.RELEASE.jar
+2016-05-31 09:46:20,937 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/ws/spring-xml/2.3.0.RELEASE/spring-xml-2.3.0.RELEASE.jar
+2016-05-31 09:46:21,163 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/4.0.9.RELEASE/spring-oxm-4.0.9.RELEASE.jar
+2016-05-31 09:46:21,409 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-oxm/4.0.9.RELEASE/spring-oxm-4.0.9.RELEASE.jar
+2016-05-31 09:46:25,122 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact dbunit:dbunit:jar:2.2 has been relocated to org.dbunit:dbunit:jar:2.2
+2016-05-31 09:46:32,250 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BargeOperation/src/main/java
+2016-05-31 09:46:32,251 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BargeOperation/src/main/resources
+2016-05-31 09:46:32,252 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BargeOperation/src/test/java
+2016-05-31 09:46:42,429 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact dbunit:dbunit:jar:2.2 has been relocated to org.dbunit:dbunit:jar:2.2
+2016-05-31 09:46:43,619 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 58 sec
+2016-05-31 09:47:55,117 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact dbunit:dbunit:jar:2.2 has been relocated to org.dbunit:dbunit:jar:2.2
+2016-05-31 09:47:55,357 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 09:47:55,410 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 09:47:55,432 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 09:47:55,433 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 10:18:40,321 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 10:18:40,346 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-31 10:18:40,350 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 10:18:40,351 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 10:23:04,275 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/2.3.0.RELEASE/spring-ws-core-2.3.0.RELEASE-sources.jar
+2016-05-31 10:23:05,912 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/ws/spring-ws-core/2.3.0.RELEASE/spring-ws-core-2.3.0.RELEASE-sources.jar
+2016-05-31 10:23:06,088 [Worker-39] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.ws:spring-ws-core:2.3.0.RELEASE
+2016-05-31 10:23:06,931 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 10:23:06,932 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-31 10:23:06,934 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 10:23:06,935 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 10:29:50,153 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.0.6.RELEASE/spring-core-4.0.6.RELEASE-sources.jar
+2016-05-31 10:29:51,804 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.0.6.RELEASE/spring-core-4.0.6.RELEASE-sources.jar
+2016-05-31 10:29:51,962 [Worker-43] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:4.0.6.RELEASE
+2016-05-31 10:29:52,831 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 10:29:52,832 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-31 10:29:52,834 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 10:29:52,835 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 10:49:27,502 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 10:49:27,509 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 10:49:27,512 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 10:49:27,513 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 10:55:48,648 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 10:55:48,650 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 10:55:48,653 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 10:55:48,654 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 11:11:56,043 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 11:11:56,045 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 11:11:56,048 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 11:11:56,048 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 11:23:21,887 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 11:23:21,916 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 11:23:21,921 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 11:23:21,922 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 11:37:52,507 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gss.coms.bargeoperation:BargeOperation:1.0.0 @ D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\pom.xml.
+2016-05-31 11:37:52,507 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gss.coms.bargeoperation:BargeOperation:1.0.0 @ D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\pom.xml.
+2016-05-31 11:38:01,084 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact dbunit:dbunit:jar:2.2 has been relocated to org.dbunit:dbunit:jar:2.2
+2016-05-31 11:38:01,120 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact dbunit:dbunit:jar:2.2 has been relocated to org.dbunit:dbunit:jar:2.2
+2016-05-31 11:38:04,439 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact dbunit:dbunit:jar:2.2 has been relocated to org.dbunit:dbunit:jar:2.2
+2016-05-31 11:38:11,932 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 11:38:11,987 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 11:38:13,705 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gss.coms.bargeoperation:BargeOperation:1.0.0 @ D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\pom.xml.
+2016-05-31 11:38:13,711 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 11:38:13,712 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 11:38:15,319 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact dbunit:dbunit:jar:2.2 has been relocated to org.dbunit:dbunit:jar:2.2
+2016-05-31 11:38:17,909 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact dbunit:dbunit:jar:2.2 has been relocated to org.dbunit:dbunit:jar:2.2
+2016-05-31 11:38:19,327 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact dbunit:dbunit:jar:2.2 has been relocated to org.dbunit:dbunit:jar:2.2
+2016-05-31 11:38:41,846 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact dbunit:dbunit:jar:2.2 has been relocated to org.dbunit:dbunit:jar:2.2
+2016-05-31 11:38:43,247 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 11:38:43,258 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-31 11:38:43,261 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 11:38:43,261 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 11:38:56,849 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BargeOperation
+2016-05-31 11:39:47,786 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 11:39:47,807 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 11:39:47,969 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 11:39:48,035 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 11:39:48,035 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BargeOperation
+2016-05-31 11:39:48,121 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BargeOperation
+2016-05-31 11:39:48,309 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 13:10:10,082 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 13:10:10,206 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 13:10:10,209 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 13:10:10,210 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 13:10:20,305 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 13:10:20,307 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 13:10:20,309 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 13:10:20,310 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 13:13:55,862 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BargeOperation
+2016-05-31 13:14:31,181 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 13:14:31,183 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 13:14:31,192 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 13:14:31,193 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 13:14:31,193 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BargeOperation
+2016-05-31 13:14:31,194 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BargeOperation
+2016-05-31 13:14:31,221 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 13:20:58,660 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 13:20:58,663 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 13:20:58,668 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 13:20:58,669 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 13:47:08,917 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 13:47:08,919 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 13:47:08,922 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 13:47:08,923 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 13:47:36,531 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 13:47:36,532 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 13:47:36,535 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 13:47:36,536 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 13:53:40,784 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 13:53:40,786 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 13:53:40,790 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 13:53:40,790 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 15:11:42,017 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 15:11:42,019 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 15:11:42,022 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 15:11:42,023 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 15:17:01,117 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 15:17:01,119 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 15:17:01,128 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 15:17:01,129 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 15:19:29,446 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 15:19:29,447 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 15:19:29,451 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 15:19:29,451 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 15:27:56,624 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 15:27:56,626 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 15:27:56,628 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 15:27:56,629 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 15:44:58,416 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 15:44:58,418 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 15:44:58,421 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 15:44:58,422 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 15:45:04,881 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 15:45:04,883 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 15:45:04,887 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 15:45:04,887 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 15:50:48,609 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 15:50:48,612 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 15:50:48,616 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 15:50:48,616 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 16:18:45,833 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:18:45,835 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 16:18:45,838 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:18:45,839 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 16:21:54,640 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:21:54,642 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 16:21:54,645 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:21:54,646 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 16:23:07,986 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:23:07,988 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 16:23:07,992 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:23:07,993 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 16:24:57,229 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:24:57,231 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 16:24:57,234 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:24:57,235 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 16:25:03,632 [Worker-155] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BargeOperation
+2016-05-31 16:25:51,057 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:25:51,059 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 16:25:51,067 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:25:51,068 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 16:25:51,068 [Worker-153] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BargeOperation
+2016-05-31 16:25:51,068 [Worker-153] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BargeOperation
+2016-05-31 16:25:51,394 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:26:07,000 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:26:07,002 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 16:26:07,004 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:26:07,005 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 16:26:09,990 [Worker-153] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BargeOperation
+2016-05-31 16:26:39,528 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:26:39,529 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 16:26:39,538 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:26:39,539 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 16:26:39,539 [Worker-155] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BargeOperation
+2016-05-31 16:26:39,540 [Worker-155] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BargeOperation
+2016-05-31 16:26:39,587 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:29:59,243 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:29:59,284 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-31 16:29:59,288 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:29:59,288 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 16:35:38,647 [Worker-161] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:35:38,649 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 16:35:38,652 [Worker-161] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:35:38,653 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 16:35:41,944 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:35:41,945 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 16:35:41,949 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:35:41,950 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 16:39:34,800 [Worker-163] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:39:34,802 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 16:39:34,805 [Worker-163] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 16:39:34,805 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 17:11:15,995 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:11:16,000 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 17:11:16,003 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:11:16,004 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 17:17:25,516 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:17:25,517 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 17:17:25,520 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:17:25,521 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 17:17:44,508 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:17:44,510 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 17:17:44,513 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:17:44,514 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 17:21:13,049 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:21:13,050 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 17:21:13,053 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:21:13,054 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 17:21:17,893 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:21:17,894 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 17:21:17,899 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:21:17,899 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 17:22:49,161 [Worker-171] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:22:49,163 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 17:22:49,167 [Worker-171] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:22:49,168 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 17:22:52,058 [Worker-181] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BargeOperation
+2016-05-31 17:23:59,192 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:23:59,193 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 17:23:59,203 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:23:59,204 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 17:23:59,204 [Worker-175] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BargeOperation
+2016-05-31 17:23:59,205 [Worker-175] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BargeOperation
+2016-05-31 17:23:59,220 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:28:01,871 [Worker-186] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:28:01,873 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-05-31 17:28:01,876 [Worker-186] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:28:01,877 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources
+2016-05-31 17:31:04,463 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:31:04,464 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-31 17:31:04,468 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-31 17:31:04,468 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ProjectC\Server HHT\BARGE-OPERATION\SERVER-SRC\src\test\resources

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PLUS_HHT_Config>
+  <serviceURL active="yes" serverType="serviceProvider">
+    <url>http://localhost:8080/BargeOperation/ws</url>
+  </serviceURL>  
+</PLUS_HHT_Config>
